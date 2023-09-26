@@ -1,1 +1,1 @@
-This is a repo fro sorting algorithms and big O
+This is a repo for sorting algorithms and big O

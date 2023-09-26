@@ -1,5 +1,6 @@
 #include "sort.h"
 #include <stdbool.h>
+
 /**
  * bubble_sort - sorts an int array in ascending order using Bubble sort algo
  * @array: pointer to the given set of data
